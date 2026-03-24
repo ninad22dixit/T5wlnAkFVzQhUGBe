@@ -1,3 +1,5 @@
+# Potential Talents
+
 A machine learning and information-retrieval project for **ranking job candidates by role fit** and **dynamically re-ranking them when recruiter preferences change**.
 
 This project was built around a talent sourcing dataset containing candidate identifiers, job titles, locations, and connection counts. The goal is to generate a robust ranking of candidates for a target HR-related role using textual relevance, lightweight feature engineering, and recruiter-in-the-loop re-ranking.  
